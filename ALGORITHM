@@ -1,0 +1,14 @@
+Step 1:START
+Step 2:Enter File Name
+Step 3:Initialise i = 0
+Step 4: If expr [i] = { 
+Step 4.1: bf++
+Step 5: If expr [i]= }
+Step 5.1:bf--
+Step 6: If bf <0 
+Step 6.1: break
+Step 7: If bf==0
+Step 7.1: print balanced paranthesis
+Step 8: else
+Step 8.1: print Unbalanced paranthesis.
+Step 9: END
